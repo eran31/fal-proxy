@@ -9,7 +9,7 @@
   ],
   "routes": [
     {
-      "src": "api/generate-image",
+      "src": "/api/generate-image",
       "methods": ["POST"],
       "dest": "api/generate-image.js"
     }
